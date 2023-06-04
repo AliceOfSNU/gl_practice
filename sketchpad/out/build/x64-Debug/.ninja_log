@@ -1,0 +1,4 @@
+# ninja log v5
+0	369	7063513191577950	CMakeFiles/main.dir/C_/OpenGLProjects/graphicsProgramming2022/assignments/glad.c.obj	c3f1aae3f27ae0ea
+2	844	7065995262736169	CMakeFiles/main.dir/src/main.cpp.obj	73778714efa5cc3e
+844	1381	7065995267680890	../../../build/main.exe	9b76c2e310bfad46

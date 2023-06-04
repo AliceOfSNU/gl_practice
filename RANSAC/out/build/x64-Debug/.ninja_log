@@ -1,0 +1,24 @@
+# ninja log v5
+31	461	7065489942737879	CMakeFiles/main.dir/C_/OpenGLProjects/graphicsProgramming2022/assignments/glad.c.obj	c3f1aae3f27ae0ea
+2	1589	7075544817913232	CMakeFiles/main.dir/src/PointKDTree.cpp.obj	a80b48ec1b926969
+2	1155	7075489839564170	CMakeFiles/main.dir/src/AxisAlignedBox3.cpp.obj	23e52a8b2edcfad2
+25	864	7065995449506199	CMakeFiles/main.dir/src/GLVis.cpp.obj	a5d63bbdfbf9ea9a
+2	1445	7075546070761085	CMakeFiles/main.dir/src/main.cpp.obj	73778714efa5cc3e
+1445	1652	7075546072511313	../../../build/main.exe	d98349339518628e
+14	1707	7075544819105981	CMakeFiles/main.dir/src/PointCloud.cpp.obj	286698d0254b996f
+2	1700	7075545280249823	CMakeFiles/main.dir/src/Slab.cpp.obj	cab24de7a88e8e81
+1	1606	7075551593239413	CMakeFiles/main.dir/src/Slab.cpp.obj	cab24de7a88e8e81
+1607	1797	7075551594867719	../../../build/main.exe	d98349339518628e
+7	1355	7075553470461548	CMakeFiles/main.dir/src/main.cpp.obj	73778714efa5cc3e
+1	1408	7075553470987445	CMakeFiles/main.dir/src/PointCloud.cpp.obj	286698d0254b996f
+1409	1627	7075553472837163	../../../build/main.exe	d98349339518628e
+2	1314	7075555501556839	CMakeFiles/main.dir/src/main.cpp.obj	73778714efa5cc3e
+1315	1512	7075555503214485	../../../build/main.exe	d98349339518628e
+7	1311	7075558828399977	CMakeFiles/main.dir/src/main.cpp.obj	73778714efa5cc3e
+2	1361	7075558828898816	CMakeFiles/main.dir/src/PointCloud.cpp.obj	286698d0254b996f
+1362	1617	7075558831167916	../../../build/main.exe	d98349339518628e
+2	1552	7075560513661329	CMakeFiles/main.dir/src/PointKDTree.cpp.obj	a80b48ec1b926969
+12	1647	7075560514588724	CMakeFiles/main.dir/src/main.cpp.obj	73778714efa5cc3e
+7	1684	7075560514989428	CMakeFiles/main.dir/src/PointCloud.cpp.obj	286698d0254b996f
+17	2007	7075560518227057	CMakeFiles/main.dir/src/Slab.cpp.obj	cab24de7a88e8e81
+2007	2225	7075560520035585	../../../build/main.exe	d98349339518628e
